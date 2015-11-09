@@ -1,0 +1,34 @@
+MNH120 scaffold	MNH120 id	USR5 scaffold	USR5 id	B04 scaffold	B04 id	MNH120 function	USR5 function	B04 function
+scaffold_997	atg10842	NODE_35582_length_606476_cov_15.460932	NS.06676	B04S196	B04S196.g9843	Membrane associated PQ loop repeat protein	Membrane associated PQ loop repeat protein	Membrane associated PQ loop repeat protein
+atg10843	scaffold_997	NODE_35582_length_606476_cov_15.460932	NS.06675	B04S196	B04S196.g9844	Pyridine nucleotide-disulphide oxidoreductase	Pyridine nucleotide-disulphide oxidoreductase	Pyridine nucleotide-disulphide oxidoreductase
+scaffold_997	atg10844	NODE_35582_length_606476_cov_15.460932	NS.06674	B04S196	B04S196.g9845	Sodium-dependent phosphate transporter	Sodium-dependent phosphate transporter	Sodium-dependent phosphate transporter
+		NODE_35582_length_606476_cov_15.460932	NS.06673					
+		NODE_35582_length_606476_cov_15.460932	NS.06672				Transcription factor	
+		NODE_35582_length_606476_cov_15.460932	NS.06671					
+scaffold_997	atg10846	NODE_35582_length_606476_cov_15.460932	NS.06670	B04S196	B04S196.g9846	NMT1/THI5 like protein, pyrimidine biosynthesis	NMT1/THI5 like protein, pyrimidine biosynthesis	
+scaffold_997	atg10847	NODE_35582_length_606476_cov_15.460932	exon.CUFF.10994.1.84	B04S196	B04S196.g9847	DNA replication licensing factor MCM5	DNA replication licensing factor MCM5	DNA replication licensing factor MCM5
+scaffold_997	atg10848	NODE_35582_length_606476_cov_15.460932	NS.06669	B04S196	B04S196.g9848	Cysteine proteinase	Cysteine proteinase	Cysteine proteinase
+		NODE_35582_length_606476_cov_15.460932	exon.CUFF.10998.1.83					
+				B04S196	B04S196.g9849			
+scaffold_997	atg10849	NODE_35582_length_606476_cov_15.460932	NS.06668	B04S196	B04S196.g9850	Eukaryotic translation initiation factor 4E	Eukaryotic translation initiation factor 4E	Eukaryotic translation initiation factor 4E
+scaffold_997	atg10850	NODE_35582_length_606476_cov_15.460932	exon.CUFF.11014.2.81	B04S196	B04S196.g9851	Protein phosphatase inhibitor	Protein phosphatase inhibitor	Protein phosphatase inhibitor
+		NODE_35582_length_606476_cov_15.460932	NS.06667					
+scaffold_997	atg10851							
+		NODE_35582_length_606476_cov_15.460932	NS.06666				Aminopeptidase	
+scaffold_997	atg10852	NODE_35582_length_606476_cov_15.460932	exon.CUFF.11014.2.80	B04S196	B04S196.g9852	Aminopeptidase	Aminopeptidase	Aminopeptidase
+		NODE_35582_length_606476_cov_15.460932	NS.06665					
+scaffold_38	atg140	NODE_35582_length_606476_cov_15.460932	exon.CUFF.10985.1.77	B04S196	B04S196.g9853	Secreted protein with unknown function	Secreted protein with unknown function	Secreted protein with unknown function
+		NODE_35582_length_606476_cov_15.460932	NS.06664					
+scaffold_887	atg7428	NODE_35582_length_606476_cov_15.460932	NS.06663	B04S196	B04S196.g9854	Transmembrane ion transporter	Transmembrane ion transporter	Transmembrane ion transporter
+				B04S196	B04S196.g9855			
+scaffold_887	atg7429	NODE_35582_length_606476_cov_15.460932	exon.CUFF.10988.1.76	B04S196	B04S196.g9856	Methylenetetrahydrofolate reductase		Methylenetetrahydrofolate reductase
+scaffold_887	atg7430	NODE_35582_length_606476_cov_15.460932	exon.CUFF.10988.1.75			Mannosyltransferase	Mannosyltransferase	
+scaffold_887	atg7431	NODE_35582_length_606476_cov_15.460932	exon.CUFF.10983.1.74	B04S196	B04S196.g9857	Gamma-tubulin protein	Gamma-tubulin protein	Gamma-tubulin protein
+		NODE_35582_length_606476_cov_15.460932	NS.06662					
+scaffold_887	atg7432	NODE_35582_length_606476_cov_15.460932	exon.CUFF.10983.1.73					
+scaffold_244	atg1389	NODE_35582_length_606476_cov_15.460932	NS.06661	B04S196	B04S196.g9858			
+scaffold_244	atg1390	NODE_35582_length_606476_cov_15.460932	exon.CUFF.10989.1.72	B04S196	B04S196.g9859	Transcription factor	Transcription factor	Transcription factor
+scaffold_244	atg1391	NODE_35582_length_606476_cov_15.460932	NS.06660					
+		NODE_35582_length_606476_cov_15.460932	exon.CUFF.10986.1.71				DNA binding protein	
+scaffold_878	atg7619	NODE_35582_length_606476_cov_15.460932	exon.CUFF.11171.1.68	B04S196	B04S196.g9860	Dimethylaniline monooxygenase	Flavin mononucleotide binding protein	Flavin mononucleotide binding protein
+scaffold_878	atg7620	NODE_35582_length_606476_cov_15.460932	NS.06659	B04S196	B04S196.g9861	Zn/Fe transporter	Zn/Fe transporter	Zn/Fe transporter
